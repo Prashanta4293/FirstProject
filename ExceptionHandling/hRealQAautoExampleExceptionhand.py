@@ -5,4 +5,4 @@ def get_test_data(index):
     except IndexError:
         return "Invalid test case index"
         
-        print(get_test_data(5))
+print(get_test_data(0))
